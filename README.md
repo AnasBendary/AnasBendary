@@ -37,6 +37,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML)&nbsp;
 
 
 
