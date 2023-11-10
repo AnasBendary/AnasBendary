@@ -36,8 +36,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Static Badge](https://img.shields.io/badge/!%5BC%2B%2B%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2F-C%2B%2B%2520-05122A%3Fstyle%3Dflat%26logo%3Dc%2B%2B)%26nbsp%3B)
-
+![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=c++)&nbsp;
 
 
 
